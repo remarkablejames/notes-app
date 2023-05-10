@@ -1,4 +1,6 @@
-# Run the code
+# Notes App
+
+## Installation
 
 ```
 npm install
