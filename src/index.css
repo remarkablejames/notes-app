@@ -44,10 +44,6 @@ code {
 .note.new {
   background-color: #67d7cc;
 }
-.text-input-note:: placeholder {
-  color: #fff;
-  font-weight: bold;
-}
 
 textarea {
   border: none;
